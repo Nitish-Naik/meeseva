@@ -1,0 +1,122 @@
+[
+    {
+        "S.No": 1,
+        "Service Name": "AMENDMENT OF SOCIETY UNDER SECTIONS 8 9 10 21 24 AND 26",
+        "Fee Label": "Fee",
+        "Fee Value": "45",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "3 Working Days",
+        "Description": "THIS SERVICE CAN BE AVAILED BY ANY CITIZEN WHO WANTS TO AMENDMENTS IN THE REGISTERED SOCIETY, THE MANDATORY DOCUMENTS DEPENDS UP ON SELECTION OF AMENDMENT BY CITIZEN. REQUIRED DOCUMENT IS UPLOADED AND DEPARTMENT AFTER VERIFICATION CAN APPROVE OR REJECT THE REQUEST.",
+        "Service Delivery Channels": "Franchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Franchisee Govt Centers: Cash/T-Wallet"
+    },
+    {
+        "S.No": 2,
+        "Service Name": "CERTIFIED COPY OF BYE LAW",
+        "Fee Label": "Fee",
+        "Fee Value": "35",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "INSTANT",
+        "Description": "BYE-LAWS ARE MANDATORY PDF DOCUMENT THAT IS USED AT THE TIME OF REGISTERING SOCIETY. CITIZEN IS REQUIRED TO UPLOAD THIS DOCUMENT WHILE REGISTERING. HE/SHE CAN GET THE CERTIFIED COPY OF BY-LAWS BY APPLYING FOR THIS SERVICE.",
+        "Service Delivery Channels": "Franchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Franchisee Govt Centers: Cash/T-Wallet"
+    },
+    {
+        "S.No": 3,
+        "Service Name": "CERTIFIED COPY OF FIRM REGISTRATION",
+        "Fee Label": "Fee",
+        "Fee Value": "35",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "INSTANT",
+        "Description": "THIS SERVICE IS AVAILED WHEN CITIZEN WANTS A COPY OF ALREADY REGISTERED FIRM. AT THE TIME OF REGISTRATION, INITIALLY 1 ORIGINAL COPY IS PROVIDED TO THE CITIZEN. LATER, HE/SHE CAN REQUEST FOR CERTIFIED COPY ONLY.",
+        "Service Delivery Channels": "Franchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Franchisee Govt Centers: Cash/T-Wallet"
+    },
+    {
+        "S.No": 4,
+        "Service Name": "CERTIFIED COPY OF REGISTRATION DOCUMENT",
+        "Fee Label": "Fee",
+        "Fee Value": "35",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "INSTANT",
+        "Description": "THIS SERVICE FACILITATES THE CITIZEN TO GET CERTIFIED COPY OF THE REGISTERED DOCUMENT OF A PROPERTY ISSUED BY SRO.",
+        "Service Delivery Channels": "Franchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Franchisee Govt Centers: Cash/T-Wallet"
+    },
+    {
+        "S.No": 5,
+        "Service Name": "CERTIFIED COPY OF SOCIETY REGISTRATION",
+        "Fee Label": "Fee",
+        "Fee Value": "35",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "INSTANT",
+        "Description": "THIS SERVICE IS AVAILED WHEN CITIZEN WANTS A COPY OF ALREADY REGISTERED SOCIETY. AT THE TIME OF REGISTRATION, INITIALLY 1 ORIGINAL COPY IS PROVIDED TO THE CITIZEN. LATER, HE/SHE CAN REQUEST FOR CERTIFIED COPY ONLY.",
+        "Service Delivery Channels": "Franchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Franchisee Govt Centers: Cash/T-Wallet"
+    },
+    {
+        "S.No": 6,
+        "Service Name": "CHANGE IN CONSTITUTION OF FIRM UNDER SECTION 63",
+        "Fee Label": "Fee",
+        "Fee Value": "45",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "3 Working Days",
+        "Description": "THIS SERVICE CAN BE AVAILED BY ANY CITIZEN WHO WANTS TO ADD/DELETE OF PARTNERS. REQUIRED DOCUMENT IS UPLOADED AND DEPARTMENT AFTER VERIFICATION CAN APPROVE OR REJECT THE REQUEST.",
+        "Service Delivery Channels": "Franchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Franchisee Govt Centers: Cash/T-Wallet"
+    },
+    {
+        "S.No": 7,
+        "Service Name": "CHANGES OR ALTERATIONS IN FIRM UNDER SECTIONS 60 AND 61 AND 62",
+        "Fee Label": "Fee",
+        "Fee Value": "45",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "3 Working Days",
+        "Description": "THIS SERVICE CAN BE AVAILED BY ANY CITIZEN WHO WANTS TO CHANGE FIRM NAME & FRIM ADRESSES. REQUIRED DOCUMENT IS UPLOADED AND DEPARTMENT AFTER VERIFICATION CAN APPROVE OR REJECT THE REQUEST.",
+        "Service Delivery Channels": "Franchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Franchisee Govt Centers: Cash/T-Wallet"
+    },
+    {
+        "S.No": 8,
+        "Service Name": "ENCUMBRANCE CERTIFICATE",
+        "Fee Label": "Fee",
+        "Fee Value": "35",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "1 Working Day",
+        "Description": "ENCUMBRANCE CERTIFICATES ARE REQUIRED BY THE CITIZEN INORDER TO KNOW ABOUT THE CLEAR TITLE OF A PROPERTY WHILE PURCHASING THE PROPERTY.",
+        "Service Delivery Channels": "Franchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Franchisee Govt Centers: Cash/T-Wallet"
+    },
+    {
+        "S.No": 9,
+        "Service Name": "REGISTRATION OF FIRMS UNDER SECTION 58",
+        "Fee Label": "Fee",
+        "Fee Value": "45",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "3 Working Days",
+        "Description": "THIS SERVICE CAN BE USED TO REGISTER A FIRM",
+        "Service Delivery Channels": "Franchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Franchisee Govt Centers: Cash/T-Wallet"
+    },
+    {
+        "S.No": 10,
+        "Service Name": "REGISTRATION OF SOCIETY UNDER SECTION 3",
+        "Fee Label": "Fee",
+        "Fee Value": "45",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "3 Working Days",
+        "Description": "THIS SERVICE CAN BE AVAILED BY ANY CITIZEN WHO WANTS TO REGISTER A SOCIETY. REQUIRED DOCUMENT IS UPLOADED AND DEPARTMENT AFTER VERIFICATION CAN APPROVE OR REJECT THE REQUEST.",
+        "Service Delivery Channels": "Franchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Franchisee Govt Centers: Cash/T-Wallet"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "S.No": 1,
+        "Service Name": "BIRTH AND DEATH CERTIFICATE CDMA",
+        "Fee Label": "Fee",
+        "Fee Value": "35",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "3 Working Days",
+        "Description": "The Objective of this service is to distribute the BIRTH AND DEATH CERTIFICATE CDMA",
+        "Service Delivery Channels": "Online:Tapp\nFranchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Online:Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee:Cash/T-Wallet\nGovt Centers:Cash/T-Wallet"
+    },
+    {
+        "S.No": 3,
+        "Service Name": "CORRECTIONS IN DEATH CERTIFICATE CDMA",
+        "Fee Label": "Fee",
+        "Fee Value": "45",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "3 Working Days",
+        "Description": "The Objective of this service is to distribute the CORRECTIONS IN DEATH CERTIFICATE CDMA",
+        "Service Delivery Channels": "Online:Tapp\nFranchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Online:Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee:Cash/T-Wallet\nGovt Centers:Cash/T-Wallet"
+    },
+    {
+        "S.No": 4,
+        "Service Name": "DMA PROPERTY TAX COLLECTION",
+        "Fee Label": "Fee",
+        "Fee Value": "0",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "15 Min",
+        "Description": "The Objective of this service is to distribute the DMA PROPERTY TAX COLLECTION",
+        "Service Delivery Channels": "Online:Tapp\nFranchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Online:Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee:Cash/T-Wallet\nGovt Centers:Cash/T-Wallet"
+    },
+    {
+        "S.No": 5,
+        "Service Name": "NON AVAILABILITY BIRTH APPLICATION CDMA",
+        "Fee Label": "Fee",
+        "Fee Value": "45",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "7 Working Days",
+        "Description": "The Objective of this service is to distribute the NON AVAILABILITY BIRTH APPLICATION CDMA",
+        "Service Delivery Channels": "Online:Tapp\nFranchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Online:Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee:Cash/T-Wallet\nGovt Centers:Cash/T-Wallet"
+    },
+    {
+        "S.No": 6,
+        "Service Name": "NON AVAILABILITY DEATH APPLICATION CDMA",
+        "Fee Label": "Fee",
+        "Fee Value": "45",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "7 Working Days",
+        "Description": "The Objective of this service is to distribute the NON AVAILABILITY BIRTH APPLICATION CDMA",
+        "Service Delivery Channels": "Online:Tapp\nFranchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Online:Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee:Cash/T-Wallet\nGovt Centers:Cash/T-Wallet"
+    }
+]

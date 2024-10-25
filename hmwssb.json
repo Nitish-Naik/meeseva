@@ -1,0 +1,26 @@
+[
+    {
+        "S.No": 1,
+        "Service Name": "AADHAAR AUTHENTICATION TO REGISTER FOR 20KL FREE WATER SCHEME",
+        "Fee Label": "Fee",
+        "Fee Value": "0",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "NA",
+        "Description": "The Objective of this service is to distribute the AADHAAR AUTHENTICATION TO REGISTER FOR 20KL FREE WATER SCHEME",
+        "Service Delivery Channels": "Franchisee Centres\nGovt Centers",
+        "Service Timings": "Franchisee:24 Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Govt CentersFranchisee:Cash / Cheque / DD / Card Payments / T-Wallet"
+    },
+    {
+        "S.No": 2,
+        "Service Name": "COLLECTION OF WATER CHARGES",
+        "Fee Label": "Fee",
+        "Fee Value": "0",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "NA",
+        "Description": "The Objective of this service is to distribute the COLLECTION OF WATER CHARGES",
+        "Service Delivery Channels": "Franchisee Centres\nGovt Centers",
+        "Service Timings": "Franchisee:24 Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Govt CentersFranchisee:Cash / Cheque / DD / Card Payments / T-Wallet"
+    }
+]

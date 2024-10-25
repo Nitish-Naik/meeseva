@@ -1,0 +1,38 @@
+[
+    {
+        "S.No": 1,
+        "Service Name": "TGSPDCL BILL PAYMENTS",
+        "Fee Label": "Fee",
+        "Fee Value": "5",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "NA",
+        "Description": "The Objective of this service is to distribute the TGSPDCL BILL PAYMENTS",
+        "Service Delivery Channels": "Online:Tapp\nFranchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Online:Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee:Cash/T-Wallet\nGovt Centers:Cash/T-Wallet"
+    },
+    {
+        "S.No": 2,
+        "Service Name": "TGSPDCL BY UNIQUE NUMBER BILL PAYMENTS",
+        "Fee Label": "Fee",
+        "Fee Value": "5",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "NA",
+        "Description": "The Objective of this service is to distribute the TGSPDCL UNIQUE NUMBER BILL PAYMENTS",
+        "Service Delivery Channels": "Online:Tapp\nFranchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Online:Net Banking/CC/DC/Paytm/T-Wallet\nFranchisee:Cash/T-Wallet\nGovt Centers:Cash/T-Wallet"
+    },
+    {
+        "S.No": 3,
+        "Service Name": "TGSPDCL NEW CONNECTION",
+        "Fee Label": "Fee",
+        "Fee Value": "45/-",
+        "Timeline Label": "Timeline",
+        "Timeline Value": "NA",
+        "Description": "The Objective of this service is to distribute the NEW CONNECTION",
+        "Service Delivery Channels": "Online:Tapp\nFranchisee Centres\nGovt Centers",
+        "Service Timings": "Online Franchisee:24Hours\nGovt Centres:9:00AMto7:00PM",
+        "Service Payment Modes": "Online:Net Banking/CC/DC/Paytm/T-Wallet\nGovt CentersFranchisee:Cash / Cheque / DD / Card Payments"
+    }
+]
