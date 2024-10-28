@@ -1,0 +1,2522 @@
+[
+    {
+        "S.NO": "1",
+        "AGENT CODE": "BDBZ",
+        "AGENT NAME": "BADA BAZAR -NIZAMABAD",
+        "ADDRESS": "ESEVA, BADABAZAR,NR WATER TANK,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "2",
+        "AGENT CODE": "ARMR",
+        "AGENT NAME": "MPL. PREMISES ARMOOR -NIZAMABAD",
+        "ADDRESS": "ESEVA, NEAR MARKANDEYA MANDIR, ARMOOR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "3",
+        "AGENT CODE": "KNTW",
+        "AGENT NAME": "KANTESWAR -NIZAMABAD",
+        "ADDRESS": "ESEVA, POLYTECHNIC GROUND,KANTESHWAR, NZB",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "4",
+        "AGENT CODE": "BODN",
+        "AGENT NAME": "MPL. PREMISES BODHAN-NIZAMABAD",
+        "ADDRESS": "ESEVA, RAKASIPET,NR MUNCIPAL OFFICE,NZB",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "5",
+        "AGENT CODE": "NZTG",
+        "AGENT NAME": "TILAKGARDENS -NIZAMABAD",
+        "ADDRESS": "TILAK GARDEN,KHALEEWADI,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "6",
+        "AGENT CODE": "TS-RFNZ032",
+        "AGENT NAME": "SADUPALLY RAMU",
+        "ADDRESS": "\"H.NO 1-92,PENTAKHURDU,(L),BODHAN(M) ,NIZAMABAD(DIST)\"",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "7",
+        "AGENT CODE": "TS-RFNZ104",
+        "AGENT NAME": "MAGGIDI SUMAN",
+        "ADDRESS": "#8-43 NEAR BUS STAND GANDHI STATUE,ALOOR.",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "8",
+        "AGENT CODE": "TS-FNZ018",
+        "AGENT NAME": "G NARESH",
+        "ADDRESS": "1-1-1630, NEAR VAMSHI HIGH SCHOOL, RAKASIPET, BODHAN, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "9",
+        "AGENT CODE": "TS-FNZ029",
+        "AGENT NAME": "MOHD SARWAR AHMED",
+        "ADDRESS": "1-1-584, BESIDE POST OFFICE, RAKAISPET, BODHAN, NIZAMABAD-503185",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "10",
+        "AGENT CODE": "TS-RFNZ125",
+        "AGENT NAME": "NAGAPURAM THIRUPATHI",
+        "ADDRESS": "1-1/1,CHIMANPALLY,SIRIKONDA,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "11",
+        "AGENT CODE": "TS-FNZ011",
+        "AGENT NAME": "MD SIBGUTULLAH KHAN",
+        "ADDRESS": "1-10-17, HUSNABAD STREET, ARMOOR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "12",
+        "AGENT CODE": "TS-RFNZ165",
+        "AGENT NAME": "G RAJESHWAR",
+        "ADDRESS": "1-112,KOTHAPALLY,MUPKAL,NIZAMABAD - 503218",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "13",
+        "AGENT CODE": "TS-FNZ050",
+        "AGENT NAME": "E GOPI REDDY",
+        "ADDRESS": "1-12-121/6, VINAYAK NAGAR, SRI NAGAR COLONY, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "14",
+        "AGENT CODE": "TS-RFNZ183",
+        "AGENT NAME": "Y SOUMYA",
+        "ADDRESS": "1-124/2/2/K3,MUGPAL,NIZAMABAD - 503230",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "15",
+        "AGENT CODE": "TS-RFNZ144",
+        "AGENT NAME": "SYED ASIF",
+        "ADDRESS": "1-14,RAMADUGU,SIRIKONDA,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "16",
+        "AGENT CODE": "TS-NFNZ023",
+        "AGENT NAME": "NISHATH PARVEEN",
+        "ADDRESS": "1-2-22/7,WEEKLY BAZAR,ARMOOR,NIZAMABAD-503224",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "17",
+        "AGENT CODE": "TS-RFNZ099",
+        "AGENT NAME": "MANGLARAM KAPIL",
+        "ADDRESS": "1-21/1, NEAR ANDHRABANK NOOTHPALLY NANDIPET NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "18",
+        "AGENT CODE": "TS-RFNZ087",
+        "AGENT NAME": "K KRISHNA",
+        "ADDRESS": "1-31/1,ETHONDA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "19",
+        "AGENT CODE": "TS-RFNZ152",
+        "AGENT NAME": "GAJJALA SATISH KUMAR",
+        "ADDRESS": "1-38/41 SHOP NO :29,TONDAKUR,NADIPET MANDAL,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "20",
+        "AGENT CODE": "TS-RFNZ150",
+        "AGENT NAME": "B RAVINDRA",
+        "ADDRESS": "1-39,SIDDHAPUR,VARNI,NIZAMABAD - 503187",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "21",
+        "AGENT CODE": "TS-FNZ032",
+        "AGENT NAME": "SYED SABER HUSSAIN",
+        "ADDRESS": "1-4-75/3, ZIRAYATH NAGAR , ARMOOR , NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "22",
+        "AGENT CODE": "TS-FNZ022",
+        "AGENT NAME": "D B NAVEEN KUMAR",
+        "ADDRESS": "1-4-866, GOSHALA ROAD, BODHAN, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "23",
+        "AGENT CODE": "TS-RFNZ146",
+        "AGENT NAME": "M SUNIL KUMAR GOUD",
+        "ADDRESS": "1-40,RARUTLA,SIRIKONDA,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "24",
+        "AGENT CODE": "TS-RFNZ083",
+        "AGENT NAME": "B PRAMOD KUMAR S/O SAYARAM",
+        "ADDRESS": "1-42,RENJARLA, MUPKAL, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "25",
+        "AGENT CODE": "TS-RFNZ049",
+        "AGENT NAME": "CHEPURI ASHOK KUMAR",
+        "ADDRESS": "1-51/25/A BANK COLONY ROAD NO 5 PANGRA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "26",
+        "AGENT CODE": "TS-RFNZ198",
+        "AGENT NAME": "SURAKATTULA POSHETTY",
+        "ADDRESS": "1-551,KAMTAM(V),NANDIPET(M),NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "27",
+        "AGENT CODE": "TS-RFNZ107",
+        "AGENT NAME": "B. SHARATH GOUD",
+        "ADDRESS": "1-66-65/A/63, NEAR NTR COLONY, DHARPALLY (GP), DHARPALLY (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "28",
+        "AGENT CODE": "TS-RFNZ143",
+        "AGENT NAME": "N SANTOSH REDDY",
+        "ADDRESS": "1-73,CHELLEM COMMUNITY HALL,KONDUR,SIRIKONDA,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "29",
+        "AGENT CODE": "TS-FNZ014",
+        "AGENT NAME": "KONDADOLLA LAKSHMI NARAYANA",
+        "ADDRESS": "10-11-239,VARNI X ROAD,GAJULPET,OPP NPDCL",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "30",
+        "AGENT CODE": "TS-NFNZ001",
+        "AGENT NAME": "B SAI KUMAR",
+        "ADDRESS": "10-9-47, GAJULAPET, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "31",
+        "AGENT CODE": "TS-RFNZ092",
+        "AGENT NAME": "R NARSAIAH",
+        "ADDRESS": "10-92, NH-63 ROAD, MAIN ROAD, MORTHAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "32",
+        "AGENT CODE": "TS-FNZ055",
+        "AGENT NAME": "J PRAVEENA KUMARI",
+        "ADDRESS": "11-1-2, GOUTHAM NAGAR, NEW HOUSING BOARD COLONY, NIZAMABAD.",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "33",
+        "AGENT CODE": "TS-RFNZ187",
+        "AGENT NAME": "PISARLA DILEEPKUMAR",
+        "ADDRESS": "11-2-219,KURMA COLONY,KANTESWAR,NIZAMABAD(NORTH),NIZAMABAD - 503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "34",
+        "AGENT CODE": "TS-FNZ041",
+        "AGENT NAME": "SHAIK MAHBOOB",
+        "ADDRESS": "11-9-63/A, AHMED PURA COLONY, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "35",
+        "AGENT CODE": "TS-RFNZ207",
+        "AGENT NAME": "VELMAL SRIKANTH",
+        "ADDRESS": "12-1/1,OPP AMBEDHKAR STATUE,KOULPOOR(V),NANDIPET(M),NIZAMABAD.",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "36",
+        "AGENT CODE": "TS-RFNZ085",
+        "AGENT NAME": "M SURESH",
+        "ADDRESS": "12-81,MAMIDIPALLY",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "37",
+        "AGENT CODE": "TS-RFNZ142",
+        "AGENT NAME": "AKRAM KHAN",
+        "ADDRESS": "12/18,ZPHS SCHOOL,KOTAGIRI (V & M),NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "38",
+        "AGENT CODE": "TS-RFNZ123",
+        "AGENT NAME": "MOHAMMED ABDUL AZEEZ",
+        "ADDRESS": "13-50/12,OPP MRO OFFICE, BHEEMGAL,NIZAMABAD DIST",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "39",
+        "AGENT CODE": "TS-RFNZ103",
+        "AGENT NAME": "PATHI NAVEEN KUMAR",
+        "ADDRESS": "14-13/6-1, NEAR NEW BUSSTAND, RDRUR,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "40",
+        "AGENT CODE": "TS-RFNZ064",
+        "AGENT NAME": "KONDALWADI SHANKER",
+        "ADDRESS": "14-36/1 NEAR BUSSTAND, RUDRUR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "41",
+        "AGENT CODE": "TS-RFNZ135",
+        "AGENT NAME": "T.NARENDHAR",
+        "ADDRESS": "14-75/5,OLD BUS STAND,BALKONDA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "42",
+        "AGENT CODE": "TS-RFNZ160",
+        "AGENT NAME": "GURAMANCHI DINESH",
+        "ADDRESS": "15-73,YEDEPALLY,OPP:SUBSTATION,YEDEPALLY,NIZAMABAD - 503202",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "43",
+        "AGENT CODE": "TS-FNZ047",
+        "AGENT NAME": "MOHD ALI BIN AMRU",
+        "ADDRESS": "19-1-105, SHANTHI NAGAR, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "44",
+        "AGENT CODE": "TS-RFNZ118",
+        "AGENT NAME": "GITTA ANVESH KUMAR",
+        "ADDRESS": "2-120, SUBHASH STATUE, BUS STAND ROAD, AMRAD, MAKLOOR, NIZAMABAD.",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "45",
+        "AGENT CODE": "TS-RFNZ002",
+        "AGENT NAME": "N RAJA RAO",
+        "ADDRESS": "2-123,VELAGATOOR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "46",
+        "AGENT CODE": "TG-RFNZ237",
+        "AGENT NAME": "BHODHEPALLI GANGA SAGAR",
+        "ADDRESS": "2-25,NEAR HANUMAN TEMPLE,KOMANPALLY,ARMOOR,NIZAMABAD-503217",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "47",
+        "AGENT CODE": "TS-RFNZ080",
+        "AGENT NAME": "J. SADHANANDAM",
+        "ADDRESS": "2-32, RAMPOOR (L), DICHPALLY (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "48",
+        "AGENT CODE": "TS-RFNZ164",
+        "AGENT NAME": "ANGANTI SAIRAM",
+        "ADDRESS": "2-34/1,CHINNAWALGOTE,SIRIKONDA,NIZAMABAD - 503165",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "49",
+        "AGENT CODE": "TS-RFNZ102",
+        "AGENT NAME": "KONDOOR RAMYA",
+        "ADDRESS": "2-38,TALWEDA(V),NANDIPET(M).NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "50",
+        "AGENT CODE": "TS-RFNZ180",
+        "AGENT NAME": "PURAM SANJANA",
+        "ADDRESS": "2-53/2,MAIN ROAD,PEDDAWALGOT",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "51",
+        "AGENT CODE": "TS-RFNZ190",
+        "AGENT NAME": "NIMMA MAHESH",
+        "ADDRESS": "2-56,DONPAL,MORTHAD,NIZAMABAD - 503225",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "52",
+        "AGENT CODE": "TS-RFNZ018",
+        "AGENT NAME": "SHAIK AZEEMUDDIN",
+        "ADDRESS": "2-8 KAREGOA CAMP",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "53",
+        "AGENT CODE": "TS-FNZ049",
+        "AGENT NAME": "B ANAND",
+        "ADDRESS": "3-1-48, KOTAGALLI",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "54",
+        "AGENT CODE": "TS-NFNZ008",
+        "AGENT NAME": "S.SRIKANTH",
+        "ADDRESS": "3-1-74/15,IST FLOOR,HAZRAMI COMPLEX,OPP:SHIVAGANGA TV SHOWROOM,NEAR BUSTAND,ARMOOR,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "55",
+        "AGENT CODE": "TS-FNZ060",
+        "AGENT NAME": "P.KISHORE GOUD",
+        "ADDRESS": "3-10-286/2, NYALKAL ROAD, NEAR NALANDA HIGH SCHOOL, NIZAMABAD-503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "56",
+        "AGENT CODE": "TS-RFNZ205",
+        "AGENT NAME": "MD AMER SOHAIL",
+        "ADDRESS": "3-105,NEAR HIGH SCHOOL,NEHRU STREET,MOTHE,VAILAPUR(M),NIZAMABAD(D) - 503311",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "57",
+        "AGENT CODE": "TS-RFNZ203",
+        "AGENT NAME": "P MAHARSHI",
+        "ADDRESS": "3-125 FATHEPOOR, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "58",
+        "AGENT CODE": "TS-RFNZ149",
+        "AGENT NAME": "S RAMESH",
+        "ADDRESS": "3-16,NEAR WATER TANK,MAIN ROAD,NALLOOR,MUPKAL,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "59",
+        "AGENT CODE": "TS-RFNZ167",
+        "AGENT NAME": "RACHARLA PRAVEEN",
+        "ADDRESS": "3-22,VENCHIRYAL,MUPKAL,NIZAMABAD - 503218",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "60",
+        "AGENT CODE": "TS-RFNZ168",
+        "AGENT NAME": "K GANGA KISHAN",
+        "ADDRESS": "3-31/14B,NEAR FORESH OFFICE,KAMAREDDY ROAD,INDALWAI,NIZAMABAD(DIST) - 503164",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "61",
+        "AGENT CODE": "TS-FNZ028",
+        "AGENT NAME": "MD NASEEM KHAN",
+        "ADDRESS": "3-4-105/1, BADA BAZAR, ALIYABAD, BODHAN, NIZAMABAD-503185",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "62",
+        "AGENT CODE": "TS-FNZ040",
+        "AGENT NAME": "SHIVA PRASAD BALLA",
+        "ADDRESS": "3-7-132/1D, KOTAGALLI, NIZAMBAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "63",
+        "AGENT CODE": "TS-RFNZ206",
+        "AGENT NAME": "SUNKARI SWARNA",
+        "ADDRESS": "3-71/1B,CH KANDOOR(V),NANDIPET(M),NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "64",
+        "AGENT CODE": "TS-RFNZ084",
+        "AGENT NAME": "E RAJARAM",
+        "ADDRESS": "3-73/3,KISAN NAGAR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "65",
+        "AGENT CODE": "TS-RFNZ043",
+        "AGENT NAME": "S MURALIMOHAN",
+        "ADDRESS": "3-81, ALOOR (GP), ARMOOR (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "66",
+        "AGENT CODE": "TS-RFNZ114",
+        "AGENT NAME": "G.K. MANOJ KUMAR",
+        "ADDRESS": "3-9-14, BADA BAZAR (GP), ARMOOR (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "67",
+        "AGENT CODE": "TS-RFNZ047",
+        "AGENT NAME": "USHIKEMARI SRINIVAS",
+        "ADDRESS": "4-109/84 THANAKALAN YEDAPALLY",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "68",
+        "AGENT CODE": "TS-RFNZ147",
+        "AGENT NAME": "MOHAMMED SALLEM",
+        "ADDRESS": "4-15,POCHAMPAD BESIDE BUSTAND,POCHEMPAD ROAD,SCANPET,MENDORA,NIZAMABAD - 503219",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "69",
+        "AGENT CODE": "TS-RFNZ112",
+        "AGENT NAME": "M. GOUTHAMI",
+        "ADDRESS": "4-163/1B, MANIK BHANDAR (L), MAKLOOR (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "70",
+        "AGENT CODE": "TS-RFNZ193",
+        "AGENT NAME": "J FATHIMA SUJITHA",
+        "ADDRESS": "4-2-354,OPP: STATE BANK OF INDIA,BESIDE JAYA SAI TIFFIN CENTER,BODHAN,NIZAMABAD - 503185",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "71",
+        "AGENT CODE": "TS-RFNZ121",
+        "AGENT NAME": "PUPPALA KIRAN KUMAR",
+        "ADDRESS": "4-24,GUTPA VILLAGE,MAKLOOR MANDAL,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "72",
+        "AGENT CODE": "TS-RFNZ218",
+        "AGENT NAME": "S K SAMEER",
+        "ADDRESS": "4-27/3,NEAR HANUMAN TEMPLE,GADKOLE,SIRIKONDA,NIZAMABAD -503165",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "73",
+        "AGENT CODE": "TS-FNZ061",
+        "AGENT NAME": "MD ALEEMUDDIN",
+        "ADDRESS": "4-4-106, SHAKAR NAGAR, BODHAN, NIZAMABAD-503185",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "74",
+        "AGENT CODE": "TS-RFNZ106",
+        "AGENT NAME": "CHINTHALA.GOPI",
+        "ADDRESS": "4-48, MUDAKPALLY",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "75",
+        "AGENT CODE": "TS-RFNZ200",
+        "AGENT NAME": "SANUGULA SWETHA",
+        "ADDRESS": "4-6,CHAKERIYAL(V),MENDORA(M),NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "76",
+        "AGENT CODE": "TS-RFNZ217",
+        "AGENT NAME": "JUNJUR VIVEKANAND",
+        "ADDRESS": "4-62,UMMEDA,NANDIPET,NIZAMABAD-503212",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "77",
+        "AGENT CODE": "TS-RFNZ145",
+        "AGENT NAME": "VALLAPUSHETTY ARUN",
+        "ADDRESS": "4-8/2,MAILARAM,NEAR MRO OFFICE,SIRIKONDA,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "78",
+        "AGENT CODE": "TS-RFNZ110",
+        "AGENT NAME": "G. VIJAYKUMAR",
+        "ADDRESS": "5-167/3, MAKLOOR (L), MAKLOOR (M), NIZAMBAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "79",
+        "AGENT CODE": "TS-RFNZ136",
+        "AGENT NAME": "G RAJNNA",
+        "ADDRESS": "5-22,THIRUMANNAPALLY,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "80",
+        "AGENT CODE": "TS-FNZ035",
+        "AGENT NAME": "GONE VISHWANATHAM",
+        "ADDRESS": "5-6-526/4/1,SARASWATHINAGAR,NIZAMBAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "81",
+        "AGENT CODE": "TS-RFNZ191",
+        "AGENT NAME": "V SRIKANTH",
+        "ADDRESS": "5-73 INDALWAI NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "82",
+        "AGENT CODE": "TS-FNZ002",
+        "AGENT NAME": "SABBANI DHARMANANDAN",
+        "ADDRESS": "6-11-74,3 TOWN PS,NAMDEVWADA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "83",
+        "AGENT CODE": "TS-FNZ044",
+        "AGENT NAME": "P.RAMESHWAR",
+        "ADDRESS": "6-13-32, NAMDEV WADA, NIZAMBABAD.",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "84",
+        "AGENT CODE": "TS-RFNZ077",
+        "AGENT NAME": "VEMULA SHIVAKUMAR",
+        "ADDRESS": "6-134 BORGAON",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "85",
+        "AGENT CODE": "TS-FNZ038",
+        "AGENT NAME": "B SRAVAN",
+        "ADDRESS": "6-24-103,NEAR GG COLLEGE,DUBBA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "86",
+        "AGENT CODE": "TS-RFNZ169",
+        "AGENT NAME": "THOPARAPU SAGAR",
+        "ADDRESS": "6-56/1,POST OFFICE,KOTHAPALLY,MAKLOOR,NIZAMABAD - 503246",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "87",
+        "AGENT CODE": "TS-RFNZ122",
+        "AGENT NAME": "VUTTOOR SANTOSH",
+        "ADDRESS": "6-81,MAIN ROAD KHUNDAVANDPOOR,NANDIPET,NIZAMABAD DIST",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "88",
+        "AGENT CODE": "TS-RFNZ062",
+        "AGENT NAME": "BANDI RAVI KUMARRUCHIKA COMMUNICATIONS",
+        "ADDRESS": "7-12/2 BORAGAON",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "89",
+        "AGENT CODE": "TS-RFNZ189",
+        "AGENT NAME": "GADDAM SRILATHA",
+        "ADDRESS": "7-19/1,PADKAL,JAKRANPALLY,NIZAMABAD - 503175",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "90",
+        "AGENT CODE": "TS-RFNZ007",
+        "AGENT NAME": "B. SWAPNA D/O. RAMESH",
+        "ADDRESS": "7-30, PIPRI (GP), ARMOOR (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "91",
+        "AGENT CODE": "TS-RFNZ090",
+        "AGENT NAME": "RAPELLI PRASHANTH KUMAR",
+        "ADDRESS": "7-68, NEAR GANDHI, PACHALA NADKUDA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "92",
+        "AGENT CODE": "TS-RFNZ082",
+        "AGENT NAME": "N SAI KRISHNA",
+        "ADDRESS": "7-69/8, OPP. GANDHI STATUE, VELPOOR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "93",
+        "AGENT CODE": "TS-RFNZ115",
+        "AGENT NAME": "KAVITHA A",
+        "ADDRESS": "7-71,NANDIPET,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "94",
+        "AGENT CODE": "TS-RFNZ068",
+        "AGENT NAME": "ESAPALLY MAHESH",
+        "ADDRESS": "7-72/7/A,VELMAL",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "95",
+        "AGENT CODE": "TS-RFNZ154",
+        "AGENT NAME": "NEERADI MAMATHA",
+        "ADDRESS": "7-86,NEAR GARAM PANCHAYATHI,KURMA VEDI,HONNAJIPET,DHARPALLY,NIZAMABAD 503165",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "96",
+        "AGENT CODE": "TS-RFNZ137",
+        "AGENT NAME": "SHAIK CHAND PASHA",
+        "ADDRESS": "8-101/6A MADIGANO.4,POTHANGAL,KOTAGIRI,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "97",
+        "AGENT CODE": "TS-RFNZ108",
+        "AGENT NAME": "GANGADAR GANDLA",
+        "ADDRESS": "8-20/1, NEAR GP OFFICE NALLAVELLY (L), INDALWAI (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "98",
+        "AGENT CODE": "TS-RFNZ088",
+        "AGENT NAME": "C. UDAY S/O. RAGHUNATH",
+        "ADDRESS": "8-31/3/1, MUPKAL (GP), KISANNAGAR (PO), BALKONDA (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "99",
+        "AGENT CODE": "TS-FNZ046",
+        "AGENT NAME": "SYED AHMED HASAN",
+        "ADDRESS": "9-14-238, MOHAMMADIA COLONY, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "100",
+        "AGENT CODE": "TS-RFNZ091",
+        "AGENT NAME": "KESARI SANDEEPKUMAR",
+        "ADDRESS": "9-19/3, YEDAPALLY",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "101",
+        "AGENT CODE": "TS-FNZ051",
+        "AGENT NAME": "ABDUL AMER",
+        "ADDRESS": "9-20-1191, CM ROAD, AUTO NAGAR, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "102",
+        "AGENT CODE": "TS-NFNZ003",
+        "AGENT NAME": "MUZAHIDDIN ANSARI",
+        "ADDRESS": "9-20-1590/1,CM ROAD,AUTO NAGAR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "103",
+        "AGENT CODE": "TS-FNZ037",
+        "AGENT NAME": "ABDUL NADEEM",
+        "ADDRESS": "9-20-170/1/P2, AUTO NAGAR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "104",
+        "AGENT CODE": "TS-FNZ036",
+        "AGENT NAME": "MD WASEEM PARVEZ",
+        "ADDRESS": "9-20-327, MUJAHID NAGAR, MALAPALLY, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "105",
+        "AGENT CODE": "TS-FNZ059",
+        "AGENT NAME": "MOHAMMED FASSI AHMED",
+        "ADDRESS": "9-20-99, BODHAN ROAD, BESIDE SBH ARSAPLLY BRANCH, NIZAMABAD-503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "106",
+        "AGENT CODE": "TS-RFNZ063",
+        "AGENT NAME": "GIRI GIRAIAH",
+        "ADDRESS": "9-53,NEAR BHARATH GAS VARNI",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "107",
+        "AGENT CODE": "TS-RFNZ073",
+        "AGENT NAME": "DASARI RAMA RAO",
+        "ADDRESS": "9-63/4 MARKET ROAD SATYANARAYANAPURAM",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "108",
+        "AGENT CODE": "TS-RFNZ116",
+        "AGENT NAME": "GAJJELA RAMADEVI",
+        "ADDRESS": "9-65 RENJAL NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "109",
+        "AGENT CODE": "TS-RFNZ141",
+        "AGENT NAME": "P SUNEEL",
+        "ADDRESS": "9-65/1,NEAR NH 44 X ROAD,JAKRANPALLY,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "110",
+        "AGENT CODE": "TS-FNZ045",
+        "AGENT NAME": "BANDA MURALIDHAR",
+        "ADDRESS": "9-8-53, QUILLA ROAD, GAJULAPET, OPP: VIJAY KISAN, MUNNURU KAPU SANGAM, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "111",
+        "AGENT CODE": "TS-RFNZ185",
+        "AGENT NAME": "BODEDLA ROJA",
+        "ADDRESS": "9-89/4/1,MAIN ROAD,NEELA,RENJAL,NIZAMABAD - 503235",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "112",
+        "AGENT CODE": "TS-FNZ010",
+        "AGENT NAME": "FAHEEM AHMED",
+        "ADDRESS": "ACHMPALLY, BODHAN, NIZAMABAD-503180",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "113",
+        "AGENT CODE": "TS-RFNZ044",
+        "AGENT NAME": "GONGATI.SUMAN,S/O.NADPENNA",
+        "ADDRESS": "ALOOR(L),ARMUR(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "114",
+        "AGENT CODE": "TS-RFNZ009",
+        "AGENT NAME": "GOJJI MAHESH",
+        "ADDRESS": "ANDHRA NAGAR,NANDIPET",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "115",
+        "AGENT CODE": "TS-NFNZ019",
+        "AGENT NAME": "GUNDLA MADHAVI",
+        "ADDRESS": "ASHOK TALKIES COMPLEX,GODOWN ROAD,NIZAMABAD(NORTH),NIZAMABAD - 503002",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "116",
+        "AGENT CODE": "TS-RFNZ155",
+        "AGENT NAME": "MANDA SHEKAR",
+        "ADDRESS": "BABAPUR,BHEEMGAL,NIZAMABAD,503307",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "117",
+        "AGENT CODE": "TS-RFNZ012",
+        "AGENT NAME": "SAGGAM AKHILESH KUMAR",
+        "ADDRESS": "BALKONDA(L),BALKONDA(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "118",
+        "AGENT CODE": "TS-RFNZ201",
+        "AGENT NAME": "PUTTI PRASHANTH",
+        "ADDRESS": "BESIDE BUSSTAND,BOREGAM,RANJAL,NIZAMABAD - 503235",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "119",
+        "AGENT CODE": "TS-RFNZ216",
+        "AGENT NAME": "KETHAVATH SANTOSH",
+        "ADDRESS": "BESIDE MEGHANA DENTAL COLLEGE MAIN ROAD,GANDHI NAGAR THANDA,MALLARAM(V),NIZAMABAD RURAL,NIZAMABAD-503003",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "120",
+        "AGENT CODE": "TS-RFNZ199",
+        "AGENT NAME": "BAINDLA NAVEEN KUMAR",
+        "ADDRESS": "BESIDE RAILWAYGATE,STATION AREA,ABHANGAPATNAM,NIZAMABAD - 503245",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "121",
+        "AGENT CODE": "TS-NFNZ013",
+        "AGENT NAME": "MAGAM MANISHA",
+        "ADDRESS": "BESIDE THILLS GIFT SHOP,KANTESHWAR,NIZAMABAD NORTH,NIZAMABAD - 503002",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "122",
+        "AGENT CODE": "TS-RFNZ153",
+        "AGENT NAME": "P MANIKYAM",
+        "ADDRESS": "BHARATH MATHA STATUE MUCHKOOR BHEEMGAL NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "123",
+        "AGENT CODE": "TS-NFNZ020",
+        "AGENT NAME": "T SANJEEV",
+        "ADDRESS": "BJP JANDA,GOUTHAMNAGAR,NIZAMABAD - 503002",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "124",
+        "AGENT CODE": "TS-FNZ030",
+        "AGENT NAME": "MADDELA SAILU",
+        "ADDRESS": "BODHAN",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "125",
+        "AGENT CODE": "TS-RFNZ076",
+        "AGENT NAME": "GUDURU SHEKHAR",
+        "ADDRESS": "CHANDUR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "126",
+        "AGENT CODE": "TS-RFNZ036",
+        "AGENT NAME": "ASHALA.MOHAN,S/O.CHINNA.POSHETTY",
+        "ADDRESS": "CHOUTPALLY(L),KAMMARPALLY(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "127",
+        "AGENT CODE": "TS-RFNZ005",
+        "AGENT NAME": "BARIGELA BHAGYARAJ",
+        "ADDRESS": "DHARMARAM",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "128",
+        "AGENT CODE": "TS-RFNZ006",
+        "AGENT NAME": "CHELIMELA GANGA MOHAN",
+        "ADDRESS": "DHARPALLY",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "129",
+        "AGENT CODE": "TS-KY013",
+        "AGENT NAME": "NIZAMABAD DISTRICT ADVOCATE MUTUALLY AIDED COOPERATIVE SOCIETIES LIMITED",
+        "ADDRESS": "DISTRICT COURT COMPLEX,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "130",
+        "AGENT CODE": "TS-RFNZ060",
+        "AGENT NAME": "THOUTI VAMSHI",
+        "ADDRESS": "DOODGAON (V), BALKONDA (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "131",
+        "AGENT CODE": "TS-NFNZ009",
+        "AGENT NAME": "K. CHANDRA SHEKAR",
+        "ADDRESS": "DUBBA KHANAPOOR CHOURASTA, DUBBA, NIZAMABAD - 503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "132",
+        "AGENT CODE": "TS-NFNZ018",
+        "AGENT NAME": "CHINTA RAJU",
+        "ADDRESS": "GANESH COLONY,VINAYAK NAGAR,NIZAMABAD(N),NIZAMABAD - 503002",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "133",
+        "AGENT CODE": "TS-RFNZ014",
+        "AGENT NAME": "S.K.FEROZ,S/O.MAHABOOB",
+        "ADDRESS": "GHANPUR(L),DICHPALLY(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "134",
+        "AGENT CODE": "TS-NFNZ017",
+        "AGENT NAME": "GOPAL SANTHOSH",
+        "ADDRESS": "GODOWN ROAD, NIZAMABAD(NORTH), NIZAMABAD - 503002",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "135",
+        "AGENT CODE": "TS-RFNZ117",
+        "AGENT NAME": "TALLA GANGAMANI",
+        "ADDRESS": "H NO 1 33 VILL: YANAMPALLY, MO:DICHPALLY, DIST NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "136",
+        "AGENT CODE": "TS-RFNZ174",
+        "AGENT NAME": "SAIKUMAR KANTESHWAR",
+        "ADDRESS": "H NO 1-115/3 NEAR POCHAMMA TEMPLE,NYALKAL(V),MUGPAL(M),NIZAMABAD(D)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "137",
+        "AGENT CODE": "TS-RFNZ129",
+        "AGENT NAME": "TAVUDA SUKANYA",
+        "ADDRESS": "H NO 3-81 MAKLOOR V&M NIZAMABAD 503213",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "138",
+        "AGENT CODE": "TS-RFNZ194",
+        "AGENT NAME": "D PURUSHOTHAM",
+        "ADDRESS": "H NO 6-92,ANKUSAPUR(V),VELPUR(M),NIZAMABAD(D)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "139",
+        "AGENT CODE": "TS-RFNZ181",
+        "AGENT NAME": "KARKU RAJASHEKHAR",
+        "ADDRESS": "H NO :2-15,NAVIPET ,NIZAMABAD DIST,503246",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "140",
+        "AGENT CODE": "TS-RFNZ095",
+        "AGENT NAME": "R LAXMAN RAJ S/O ANANTHRAJ",
+        "ADDRESS": "H NO.1-37, NAVIPET(L),NAVIPET(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "141",
+        "AGENT CODE": "TS-RFNZ056",
+        "AGENT NAME": "V PRABHAKAR",
+        "ADDRESS": "H NO.16-104/2/1,NEAR BUS STAND, MORTHAD(L),MORTHAD(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "142",
+        "AGENT CODE": "TS-RFNZ042",
+        "AGENT NAME": "U NARESH S/O GANGADHAR",
+        "ADDRESS": "H NO.3-53, HASAKOTHOR(L),KAMMARPALLY(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "143",
+        "AGENT CODE": "TS-RFNZ023",
+        "AGENT NAME": "CH SADAN KUMAR GOUD,S/O.MALLAGOUD",
+        "ADDRESS": "H NO.4-13,NEAR SBH BANK MORTHAD(L),MORTHAD(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "144",
+        "AGENT CODE": "TS-RFNZ081",
+        "AGENT NAME": "S SHASHIKANTH",
+        "ADDRESS": "H NO.6-7, RAMANNAPET(L),MORTHAD(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "145",
+        "AGENT CODE": "TS-RFNZ188",
+        "AGENT NAME": "M SANTHOSH KUMAR",
+        "ADDRESS": "H NO:2-25/1 VILL:BADGUNA,MDL:NANDIPET,DIST:NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "146",
+        "AGENT CODE": "TS-RFNZ182",
+        "AGENT NAME": "KATHROJI NARESH",
+        "ADDRESS": "H NO:7-142,BINOLA,NAVIPET,NIZAMABAD,503246",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "147",
+        "AGENT CODE": "TS-RFNZ093",
+        "AGENT NAME": "MADAVEDI SRIKANTH",
+        "ADDRESS": "H,NO.1-16/2, NEAR GANDHI, PADGAL, VELPUR.",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "148",
+        "AGENT CODE": "TS-FNZ021",
+        "AGENT NAME": "D RAVINDAR",
+        "ADDRESS": "H,NO1-4-413, RADHA KRISHNA COMPLEX, BODHAN, NIZAMABAD-503185",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "149",
+        "AGENT CODE": "TS-RFNZ050",
+        "AGENT NAME": "KULAKARNI SANTHOSH PRASAD S/O.SHIVAJI RAO",
+        "ADDRESS": "H.NO 3-61,PEGADAPALLY (L), BODHAN (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "150",
+        "AGENT CODE": "TS-RFNZ033",
+        "AGENT NAME": "MD KHALID",
+        "ADDRESS": "H.NO : 3-27/1 , GHANDI CHOWK ,NEELA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "151",
+        "AGENT CODE": "TS-RFNZ166",
+        "AGENT NAME": "BOMMENA SUNIL",
+        "ADDRESS": "H.NO.1-4/2/B MUCHKUR X ROAD,BHEEMGAL (L), BHEEMGAL (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "152",
+        "AGENT CODE": "TS-FNZ067",
+        "AGENT NAME": "PALLIKONDA ANIL KUMAR",
+        "ADDRESS": "H.NO.10-11-106,Q&Q COMPEX,CANAL KATTA, WATER TANK BACK SIDE,NIZAMABAD - 503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "153",
+        "AGENT CODE": "TS-RFNZ226",
+        "AGENT NAME": "NAMERA ANJUM",
+        "ADDRESS": "H.NO.138/15/1,NEAR MRO OFFICE,DHARAPALLY,NIZAMABAD-503165",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "154",
+        "AGENT CODE": "TS-RFNZ186",
+        "AGENT NAME": "M PURSHOTHAM",
+        "ADDRESS": "H.NO.2-102 KONAPUR(V) KAMMAPALLY(M)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "155",
+        "AGENT CODE": "TS-RFNZ219",
+        "AGENT NAME": "POTHU SRIKANTH",
+        "ADDRESS": "H.NO.2-88/3,HANUMAN TEMPLE,BAZAR KOTHUR,NANDHIPET,NIZAMABAD-503212",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "156",
+        "AGENT CODE": "TS-NFNZ024",
+        "AGENT NAME": "MEERA SHRAVAN KUMAR",
+        "ADDRESS": "H.NO.3-2-84/13,KAMALANEHRU,ARMOOR,NIZAMABAD - 503224",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "157",
+        "AGENT CODE": "TS-RFNZ209",
+        "AGENT NAME": "BADANAPALLI NISHANTH",
+        "ADDRESS": "H.NO.4-62/3,NAGAMPET(V),MUPKAL(M),NIZAMABAD(D) - 503218",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "158",
+        "AGENT CODE": "TS-RFNZ001",
+        "AGENT NAME": "RAMPURAM RAJ KUMAR",
+        "ADDRESS": "H.NO.5-19,ARGUL 2(V),JAKRANPALLY(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "159",
+        "AGENT CODE": "TS-RFNZ139",
+        "AGENT NAME": "SHAIK MUSTAFA,S/O. SHAIK MOULA",
+        "ADDRESS": "H.NO.5-75/3,KOSLI(V),NAVIPET(M), NIZAMABAD(DIST).",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "160",
+        "AGENT CODE": "TS-RFNZ128",
+        "AGENT NAME": "MITTA SRUTHI",
+        "ADDRESS": "H.NO.8-89,RENJAL(V&M),NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "161",
+        "AGENT CODE": "TS-NFNZ022",
+        "AGENT NAME": "SYED AMAN HASAN",
+        "ADDRESS": "H.NO.9-20-1924/A,AUTO NAGAR,NIZAMABAD NORTH MANDAL,NIZAMABAD - 503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "162",
+        "AGENT CODE": "TS-RFNZ003",
+        "AGENT NAME": "BOJJA RAJESHWER",
+        "ADDRESS": "H.NO: 1-1,OPP;GRAMPANCHAYATH ANKAPOOR(V),ARMOOR(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "163",
+        "AGENT CODE": "TS-RFNZ109",
+        "AGENT NAME": "GURUDU GOPI",
+        "ADDRESS": "H.NO: 3-147,DUBBAKA 2(V),DHARPALLY(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "164",
+        "AGENT CODE": "TS-RFNZ040",
+        "AGENT NAME": "K.GOPI,S/O. K.NADPI RAJANNA",
+        "ADDRESS": "H.NO: 4-67,SIRIKONDA(V),SIRIKONDA(M),NIZAMABAD(DIST),PIN:503165",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "165",
+        "AGENT CODE": "TS-RFNZ078",
+        "AGENT NAME": "NAYIKA MAHENDER",
+        "ADDRESS": "H.NO: 5-1/6,KALIGOTE 2(V),JAKRANPALLY(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "166",
+        "AGENT CODE": "TS-RFNZ055",
+        "AGENT NAME": "GOTTIMUKKALA RAJENDER",
+        "ADDRESS": "H.NO: 7-95,JAKRANPALLY 2(V),JAKRANPALLY(M),NIZAMABAD(DIST),",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "167",
+        "AGENT CODE": "TS-RFNZ013",
+        "AGENT NAME": "KURME RAHUL",
+        "ADDRESS": "H.NO: 8-37,MOSRA 2(V),VARNI(M),NIZAMABAD(DIST),PIN:503206",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "168",
+        "AGENT CODE": "TS-RFNZ229",
+        "AGENT NAME": "KORATPALLY RAJITHA",
+        "ADDRESS": "H.NO:1-10/1,NEAR MAJID,POCHAMMAGALLI,RAMADUGU,DHARPALLY,NIZAMABAD-503164",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "169",
+        "AGENT CODE": "TS-RFNZ211",
+        "AGENT NAME": "SOKKAM SHIVA PRASAD",
+        "ADDRESS": "H.NO:1-2/3,SALOORA BUS STAND,BANK COLONY,SALOORA,BODHAN,NIZAMABAD - 503185",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "170",
+        "AGENT CODE": "TS-RFNZ232",
+        "AGENT NAME": "B RAVIKUMAR",
+        "ADDRESS": "H.NO:1-25/1,DHAMMANNAPET,DHARPALLY,NIZAMABA-503165",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "171",
+        "AGENT CODE": "TS-RFNZ228",
+        "AGENT NAME": "GANDLA SANJEEV KUMAR",
+        "ADDRESS": "H.NO:1-57,JAKORA(V)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "172",
+        "AGENT CODE": "TS-RFNZ221",
+        "AGENT NAME": "JAKKU NIROJA",
+        "ADDRESS": "H.NO:1-70/2,SUDDULAM,DICHPALLY,NIZAMABAD-503164",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "173",
+        "AGENT CODE": "TS-RFNZ234",
+        "AGENT NAME": "MADAVEDI GANGAMANI",
+        "ADDRESS": "H.NO:1-75,SIRPUR,DONKESHWAR,NIZAMABAD-503212",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "174",
+        "AGENT CODE": "TS-RFNZ134",
+        "AGENT NAME": "GAJULA MADHU",
+        "ADDRESS": "H.NO:1-8/43,PALDA,NIZAMABAD,NIZAMABAD-503246",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "175",
+        "AGENT CODE": "TS-FNZ007",
+        "AGENT NAME": "BAIRA RAMYA",
+        "ADDRESS": "H.NO:10-07-695,SITARAM NAGAR COLONY,VARNI ROAD,NIZAMABAD SOUTH,NIZAMABAD-503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "176",
+        "AGENT CODE": "TS-RFNZ220",
+        "AGENT NAME": "KUNE SRIKANTH",
+        "ADDRESS": "H.NO:13-93,OPP:POLICE STATION,MRO OFFICE ROAD,BHEEMGAL,BHEEMGAL,NIZAMABAD-503307",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "177",
+        "AGENT CODE": "TS-RFNZ054",
+        "AGENT NAME": "CH SRIKANTH",
+        "ADDRESS": "H.NO:14-25 KOTAGIRI(GP)KOTAGIRI (M),",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "178",
+        "AGENT CODE": "TS-RFNZ233",
+        "AGENT NAME": "MEESALA RAJESH",
+        "ADDRESS": "H.NO:2-101,MALLARAM,NIZABAD RURAL,NIZAMABAD-503003",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "179",
+        "AGENT CODE": "TS-RFNZ197",
+        "AGENT NAME": "UPPULOLLA HANMANDLU",
+        "ADDRESS": "H.NO:2-110,MIRDHAPALLY(V),ARMOOR(M),NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "180",
+        "AGENT CODE": "TS-RFNZ213",
+        "AGENT NAME": "THOOTICHARLA SWETHA",
+        "ADDRESS": "H.NO:2-15,DEEKAMPALLY,MAKLOOR,NIZAMABAD - 503213",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "181",
+        "AGENT CODE": "TG-RFNZ238",
+        "AGENT NAME": "MALLELA PRASHANTH",
+        "ADDRESS": "H.NO:2-5/A,SC COLONY,NARSAPUR(V),KAMMARAPALLY(M),NIZAMABAD(D)-503307",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "182",
+        "AGENT CODE": "TS-RFNZ022",
+        "AGENT NAME": "RADHIKA",
+        "ADDRESS": "H.NO:2-66,BRAHMANPALLY(V)JAKRANPALLY,(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "183",
+        "AGENT CODE": "TS-RFNZ039",
+        "AGENT NAME": "NANDAGIRI SAI DIVYA",
+        "ADDRESS": "H.NO:2-89,MADIMIWADA, KAMMARPALLY(GP),KAMMARPALLY(PO),NIZAMABAD(DIST),PIN:503308",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "184",
+        "AGENT CODE": "TS-RFNZ236",
+        "AGENT NAME": "BANDARI BALAKRISHNA",
+        "ADDRESS": "H.NO:3-101/3,TAGLEPALLY,VARNI,NIZAMABAD-503188",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "185",
+        "AGENT CODE": "TS-RFNZ086",
+        "AGENT NAME": "SADULA RAJESHWAR",
+        "ADDRESS": "H.NO:3-115/5,NEAR SAMERUGU BUS STAND,MENDORA(V&M),NIZAMABAD(DIST)-503219",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "186",
+        "AGENT CODE": "TS-RFNZ231",
+        "AGENT NAME": "MATLA SHIVARAJU",
+        "ADDRESS": "H.NO:3-122/1,OPP:BUS STAND,SAMGAM,BODHAN,NIZAMABAD-503185",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "187",
+        "AGENT CODE": "TS-RFNZ011",
+        "AGENT NAME": "MANCHIRYALA JANARDHAN",
+        "ADDRESS": "H.NO:3-13/1 NANDIPET (GP)NANDIPET (M",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "188",
+        "AGENT CODE": "TS-RFNZ008",
+        "AGENT NAME": "MD. ASLAM, S/O. MD. GOUSE",
+        "ADDRESS": "H.NO:3-138/15/1/A, DHARPALLY(GP), DHARPALLY(PO), DHARPALLY(M), NIZAMABAD(DIST), PIN:503165",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "189",
+        "AGENT CODE": "TS-RFNZ235",
+        "AGENT NAME": "THIGULLA SRIKANTH",
+        "ADDRESS": "H.NO:3-19/4,SUB-STATION,10TH WARD,CHINTAKUNTA,MOSRA,NIZAMABAD-503206",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "190",
+        "AGENT CODE": "TS-RFNZ196",
+        "AGENT NAME": "DEGONDA RAJU",
+        "ADDRESS": "H.NO:3-35,ODDYATPALLY,MAKLOOR,NIZAMABAD - 503003",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "191",
+        "AGENT CODE": "TS-RFNZ225",
+        "AGENT NAME": "MUTHYAPAWAR SRAVAN KUMAR",
+        "ADDRESS": "H.NO:3-6/2/T,LAKKAMPALLY,NANDIPET,NIZAMABAD-503212",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "192",
+        "AGENT CODE": "TS-RFNZ130",
+        "AGENT NAME": "A SUDHAKAR",
+        "ADDRESS": "H.NO:3-76 AILAPUR (GP)NANDIPET (M)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "193",
+        "AGENT CODE": "TS-RFNZ097",
+        "AGENT NAME": "SAYULU ANKALA, S/O. A. GANGADHAR",
+        "ADDRESS": "H.NO:4-4, GUNDARAM(GP), NIZAMABAD(PO), NIZAMABAD(DIST), PIN:503186",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "194",
+        "AGENT CODE": "TS-RFNZ223",
+        "AGENT NAME": "PUTTA NAVEEN",
+        "ADDRESS": "H.NO:5-7,MANTHANI,ARMOOR,NIZAMABAD-503224",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "195",
+        "AGENT CODE": "TS-RFNZ227",
+        "AGENT NAME": "BUKYA RAMESH",
+        "ADDRESS": "H.NO:6-68/4,GANDHI CHOWK,DB THANDA,DHARPALLI,NIZAMABAD-503165",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "196",
+        "AGENT CODE": "TS-RFNZ133",
+        "AGENT NAME": "KANDAGIRI SRIDHAR",
+        "ADDRESS": "H.NO:6-86/1,OPP RAILWAY STATION, DICHPALLY (GP)DICHPALLY (M),NIZAMABAD(D)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "197",
+        "AGENT CODE": "TS-RFNZ024",
+        "AGENT NAME": "PEDDAMGARI SATISH KUMAR",
+        "ADDRESS": "H.NO:8-100/11,NEAR BUSSTANS,MOSRA(V)VARNI,(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "198",
+        "AGENT CODE": "TS-RFNZ048",
+        "AGENT NAME": "KALLEDA RANADHEER",
+        "ADDRESS": "H.NO:8-103/3,OPP:UNION BANK,MAIN ROAD,KAMARAPALLY,NIZABAD-503308",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "199",
+        "AGENT CODE": "TS-RFNZ230",
+        "AGENT NAME": "BANAVATH MANGULAL",
+        "ADDRESS": "H.NO:9-31/2,NADMI THANDA,HONNAJIPET,DHARPALLY,NIZAMABAD-503165",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "200",
+        "AGENT CODE": "TS-RFNZ045",
+        "AGENT NAME": "M.D. AHMED HUSSAIN,S/O.SAJID",
+        "ADDRESS": "H.NO:NEAR BUS STAND KAMMARPALLY (GP)KAMMARPALLY (M)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "201",
+        "AGENT CODE": "TS-RFNZ098",
+        "AGENT NAME": "SAMARAPU SATEESH",
+        "ADDRESS": "H.NO;3-45/2,MARAMPALLY,(L),NANDIPET(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "202",
+        "AGENT CODE": "TS-RFNZ175",
+        "AGENT NAME": "INDUR ASHOK",
+        "ADDRESS": "HNO 1-17/2,KULASPUR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "203",
+        "AGENT CODE": "TS-FNZ005",
+        "AGENT NAME": "CH. SRINIVAS",
+        "ADDRESS": "HNO 1-2-5, PHULONG, PATIGALLI, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "204",
+        "AGENT CODE": "TS-RFNZ171",
+        "AGENT NAME": "PODENDLA RAJU",
+        "ADDRESS": "HNO 1-68/2,NEAR GANDHI COLONY,KONDAPOOR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "205",
+        "AGENT CODE": "TS-NFNZ006",
+        "AGENT NAME": "N.SANTOSH KRISHNA",
+        "ADDRESS": "HNO 3-3-580 SAI PRIYANAGAR(GAYATRI NAGAR),VIKAS HIGH SCHOOL RAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "206",
+        "AGENT CODE": "TS-RFNZ179",
+        "AGENT NAME": "KANTHAM NAVEEN",
+        "ADDRESS": "HNO 4-12,GP NEAR WATERTANK ,KALOOR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "207",
+        "AGENT CODE": "TS-RFNZ163",
+        "AGENT NAME": "THEETLA RAJESH",
+        "ADDRESS": "HNO- 1-32,NEAR BUSTAND ,CHENGAL",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "208",
+        "AGENT CODE": "TS-RFNZ162",
+        "AGENT NAME": "SIRASULAVAKUMAR SUCHITRA",
+        "ADDRESS": "HNO-5-35/2,TADLA RAMPUR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "209",
+        "AGENT CODE": "TS-NFNZ005",
+        "AGENT NAME": "G VENKATA NAGESHWAR RAO",
+        "ADDRESS": "HNO.5-6-755,OPP ANNAPURA HOSPITAL KHALEEL VADI",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "210",
+        "AGENT CODE": "TS-RFNZ161",
+        "AGENT NAME": "JOUNA SHIVA SHEKAR",
+        "ADDRESS": "HOSE NO 2-35/1,VANNEL K",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "211",
+        "AGENT CODE": "TS-RFNZ212",
+        "AGENT NAME": "BANDI SUMAM",
+        "ADDRESS": "JAGIRYAL,BHEEMGAL,NIZAMABAD -503307",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "212",
+        "AGENT CODE": "TS-RFNZ028",
+        "AGENT NAME": "GOPAL KASHI GOUD",
+        "ADDRESS": "JALALPUR(V), VARNI(M), NIZAMABAD(DIST).",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "213",
+        "AGENT CODE": "TS-RFNZ041",
+        "AGENT NAME": "U. RAJESH S/O. U. PEDDA SAYANNA",
+        "ADDRESS": "JANKAMPET (L), YEDAPALLY (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "214",
+        "AGENT CODE": "TS-RFNZ066",
+        "AGENT NAME": "GINGURI SUNITHA",
+        "ADDRESS": "JANNEPALLY V NAVIPET NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "215",
+        "AGENT CODE": "TS-RFNZ052",
+        "AGENT NAME": "MATHIRI BEERAIAH",
+        "ADDRESS": "KALDURKI",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "216",
+        "AGENT CODE": "TS-RFNZ031",
+        "AGENT NAME": "KOMMULA SRINIVAS",
+        "ADDRESS": "KAMMARPALLY(L),KAMMARPALLY(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "217",
+        "AGENT CODE": "TS-RFNZ178",
+        "AGENT NAME": "SHAIK ALTHAF",
+        "ADDRESS": "KOTAGIRI ROAD,SULEMANNAGAR,RUDRUR,NIZAMABAD - 503188",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "218",
+        "AGENT CODE": "TS-RFNZ074",
+        "AGENT NAME": "KAYAPALLI.SRINIVAS",
+        "ADDRESS": "KOTAGIRI(L),KOTAGIRI(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "219",
+        "AGENT CODE": "TS-RFNZ037",
+        "AGENT NAME": "G SANDHYA RANI",
+        "ADDRESS": "MAIN ROAD LAKKORA VELPUR NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "220",
+        "AGENT CODE": "TS-RFNZ026",
+        "AGENT NAME": "BADAVATH SUDERSHAN",
+        "ADDRESS": "MALLARAM",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "221",
+        "AGENT CODE": "TS-RFNZ046",
+        "AGENT NAME": "T KALYAN CHAKRAVARTHI",
+        "ADDRESS": "MANCHIPA V",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "222",
+        "AGENT CODE": "TS-FNZ057",
+        "AGENT NAME": "CHAND PASHA",
+        "ADDRESS": "MIG76, SHAKANAGAR, RAMALAYAM",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "223",
+        "AGENT CODE": "TS-RFNZ019",
+        "AGENT NAME": "KALURU.MURALI,S/O.KALURU.GANGADHAR",
+        "ADDRESS": "MLA 5/6 MAHALAXMI NAGAR NIZAMABAD SOUTH NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "224",
+        "AGENT CODE": "TS-RFNZ148",
+        "AGENT NAME": "ERROLLA RAJ KIRAN",
+        "ADDRESS": "MUNIPALLY,JAKARAM,NIZAMABAD,503224",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "225",
+        "AGENT CODE": "TS-RFNZ113",
+        "AGENT NAME": "J. ANAND KUMAR",
+        "ADDRESS": "MUPKAL (GP), MUPKAL (PO), BALKONDA (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "226",
+        "AGENT CODE": "TS-RFNZ176",
+        "AGENT NAME": "POLAPALLY RAJAIAH",
+        "ADDRESS": "NADPALLY,DICHPALLY,NIZAMABAD(DIST)PIN:503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "227",
+        "AGENT CODE": "TS-RFNZ004",
+        "AGENT NAME": "CH PRAVALIKA",
+        "ADDRESS": "NANDIPET(V & M)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "228",
+        "AGENT CODE": "TS-RFNZ170",
+        "AGENT NAME": "SRI RAM RAJESHWAR",
+        "ADDRESS": "NEAR AMBEDKAR STATUE,GANNARAM(L),INDALWAI(M),NIZAMABAD (DIST) - 503164",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "229",
+        "AGENT CODE": "TS-RFNZ094",
+        "AGENT NAME": "SHAIK GHOUSE,S/O.MOINUDDIN",
+        "ADDRESS": "NEAR AMBETKAR STATUE,MAIN ROAD..DONKESHWAR(L),NANDIPET(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "230",
+        "AGENT CODE": "TS-RFNZ027",
+        "AGENT NAME": "GOWLIKER SAGAR",
+        "ADDRESS": "NEAR BARDIPUR X ROAD ,4-53,DHARMARAM B,(V),DICHPALLY,(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "231",
+        "AGENT CODE": "TS-RFNZ072",
+        "AGENT NAME": "NARABOYINA RAMESH",
+        "ADDRESS": "NEAR BUSSTAND GADKOL ROAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "232",
+        "AGENT CODE": "TS-RFNZ177",
+        "AGENT NAME": "GADDAM RAJU",
+        "ADDRESS": "NEAR BUSTAND,DEGAON,ARMOOR,NIZAMABAD - 503224",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "233",
+        "AGENT CODE": "TS-RFNZ075",
+        "AGENT NAME": "D SAMPATH KUMAR",
+        "ADDRESS": "NEAR GP OFFICE,DONKAL (L), MORHAD (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "234",
+        "AGENT CODE": "TS-RFNZ058",
+        "AGENT NAME": "B MAHESH",
+        "ADDRESS": "NEAR GP OFFICE,KORATPALLY(L), DICHPALLY (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "235",
+        "AGENT CODE": "TS-RFNZ057",
+        "AGENT NAME": "M SUNITHA",
+        "ADDRESS": "NEAR GP PALLYKONDA BHEEMGAL NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "236",
+        "AGENT CODE": "TS-RFNZ034",
+        "AGENT NAME": "K RAJKUMAR",
+        "ADDRESS": "NEAR GP, MUPKAL",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "237",
+        "AGENT CODE": "TS-RFNZ224",
+        "AGENT NAME": "SEPUR PRAVEEN KUMAR GOUD",
+        "ADDRESS": "NEAR GRAMPANCHYATH,GANGRAM THANDA,INDALWAI,NIZAMBAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "238",
+        "AGENT CODE": "TS-RFNZ071",
+        "AGENT NAME": "M SUJATHA",
+        "ADDRESS": "NEAR IKP OFFICE , GHANPUR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "239",
+        "AGENT CODE": "TS-RFNZ127",
+        "AGENT NAME": "J ANIL KIUMAR",
+        "ADDRESS": "NEAR MRO OFFICE",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "240",
+        "AGENT CODE": "TS-NFNZ012",
+        "AGENT NAME": "SRIKANTH CHATLA",
+        "ADDRESS": "NEAR TDP JENDA, GOUTHAM NAGAR, NIZAMBAD NORTH(M), NIZAMABAD(U) - 503002",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "241",
+        "AGENT CODE": "TS-RFNZ030",
+        "AGENT NAME": "POLAMPALLI SRINIVAS",
+        "ADDRESS": "NEAR VEGTABLE MARKET PERKIT ARMOOR NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "242",
+        "AGENT CODE": "TS-RFNZ214",
+        "AGENT NAME": "BASSI JAGADEESH",
+        "ADDRESS": "NEAR VENKATESHWARA TEMPLE,MANCHIPPA ROAD,NARSINGHPALLI,MUDAKPALLY,MUGPAL,NIZAMABAD - 503230",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "243",
+        "AGENT CODE": "TS-RFNZ021",
+        "AGENT NAME": "CHILLVERY RAMPRASAD",
+        "ADDRESS": "NEAR Z.P.P.H.S SCHOOL,H.NO;YERGATLA 2(V),MORTHAD(M),NIZAMABAD(DIST),",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "244",
+        "AGENT CODE": "TS-RFNZ100",
+        "AGENT NAME": "PATHA BALARAJU",
+        "ADDRESS": "NEAR ZPHS, MAIN ROAD, GOTTUMUKLA, MAKLOOR.",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "245",
+        "AGENT CODE": "TS-RFNZ025",
+        "AGENT NAME": "SYED AYAZUDDIN",
+        "ADDRESS": "NEHRUNAGAR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "246",
+        "AGENT CODE": "TS-FNZ035",
+        "AGENT NAME": "GONE VISHWANTHAM",
+        "ADDRESS": "NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "247",
+        "AGENT CODE": "TS-RFNZ020",
+        "AGENT NAME": "B. SANTHOSH GOUD S/O. GANGADHER GOUD",
+        "ADDRESS": "PALEM (L), MORHAD (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "248",
+        "AGENT CODE": "TS-RFNZ029",
+        "AGENT NAME": "SAIVA PURUSHOTHAM,S/O.NARSAIAH",
+        "ADDRESS": "PEDDA BHEEMGAL(L),BHEEMGAL(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "249",
+        "AGENT CODE": "TS-RFNZ096",
+        "AGENT NAME": "SHAHID ALI",
+        "ADDRESS": "PERKIT(V),ARMOOR(M)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "250",
+        "AGENT CODE": "TS-RFNZ111",
+        "AGENT NAME": "CHUKKALA SARIKA",
+        "ADDRESS": "PLOT NO:25, GOPANPALLY (L), NIZAMABAD (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "251",
+        "AGENT CODE": "TS-RFNZ079",
+        "AGENT NAME": "MOHD MANSOOR",
+        "ADDRESS": "POTHANGAL KOTGIRI NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "252",
+        "AGENT CODE": "TS-RFNZ059",
+        "AGENT NAME": "SYED AYAS",
+        "ADDRESS": "SALOORA (L), BODHAN (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "253",
+        "AGENT CODE": "TS-RFNZ126",
+        "AGENT NAME": "MD RAFEEQ",
+        "ADDRESS": "SARANGAPUR,SHOP NO:3,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "254",
+        "AGENT CODE": "TS-RFNZ151",
+        "AGENT NAME": "B. POCHAIAH",
+        "ADDRESS": "SATAPUR (L), RENJAL (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "255",
+        "AGENT CODE": "TS-FNZ023",
+        "AGENT NAME": "S SRIKANTH",
+        "ADDRESS": "SHAKAR NAGAR X ROADS, MAIN ROAD, BODHAN",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "256",
+        "AGENT CODE": "TS-RFNZ101",
+        "AGENT NAME": "SRI RAM VIJAY",
+        "ADDRESS": "SHOP NO 1, GANDHI STREET, CHEPUR , ARMOOR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "257",
+        "AGENT CODE": "TS-RFNZ158",
+        "AGENT NAME": "M SAGAR",
+        "ADDRESS": "SHOP NO 1-39,NEAR MAYAPOOR,UMMEDA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "258",
+        "AGENT CODE": "TS-RFNZ157",
+        "AGENT NAME": "M ARCHANA",
+        "ADDRESS": "SHOP NO 2-35/2,NEAR TEMPLE,SIKINDRAPUR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "259",
+        "AGENT CODE": "TS-RFNZ156",
+        "AGENT NAME": "MADDI RAMESH",
+        "ADDRESS": "SHOP NO 7-69,MACHERLA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "260",
+        "AGENT CODE": "TS-NFNZ002",
+        "AGENT NAME": "SHAIK IQBAL ALI",
+        "ADDRESS": "SHOP NO.2,MASJID E FATIMA,PHULOG,NIZAMABAD SOUTH,NIZAMABAD-503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "261",
+        "AGENT CODE": "TS-NFNZ004",
+        "AGENT NAME": "NUGURI VENUMADHAV",
+        "ADDRESS": "SHOP NO.3-10-108 OPP MUNNU KAPU FUCTION HALL , SHIVAJI NAGAR ,NIZAMA BAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "262",
+        "AGENT CODE": "TS-RFNZ202",
+        "AGENT NAME": "BARLA MOUNIKA",
+        "ADDRESS": "SHOP NO1,GP ROAD(OPP),MAIN ROAD,BASHEERABAD(VILL),KAMMARPALLY(MNDL),NIZAMABAD.",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "263",
+        "AGENT CODE": "TS-RFNZ222",
+        "AGENT NAME": "KATROTH MADHU",
+        "ADDRESS": "SHOP NO:1-79,NEAR GRAMAPANCHAYATHI,LAXMAPUR,NIZAMABAD-502206",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "264",
+        "AGENT CODE": "TS-NFNZ025",
+        "AGENT NAME": "MOHAMMED RAYEES UDDIN",
+        "ADDRESS": "SHOP NO:10-13-193/4A/1,BABANSA PHADI,NAGARAM ROAD,NIZAMABAD SOUTH,NIZAMABAD-503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "265",
+        "AGENT CODE": "TS-RFNZ089",
+        "AGENT NAME": "RAMADUGU.BHOOMANNA,S/O.LINGANNA",
+        "ADDRESS": "SHOP.NO.1, KOLIPAK(L),JAKRANPALLY(M), NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "266",
+        "AGENT CODE": "TS-NFNZ021",
+        "AGENT NAME": "G SREEDHAR",
+        "ADDRESS": "SHOP.NO.22,OPP:BASWA GARDEN,VINAYAKANAGAR,NIZAMABAD(NORTH),NIZAMABAD - 503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "267",
+        "AGENT CODE": "TG-NFNZ026",
+        "AGENT NAME": "MUHAMMAD AYUB KHAN",
+        "ADDRESS": "SHOP.NO:1,HAMEEDAH MASJID,AHMEDPURA COLONY,NIZAMABAD(SOUTH),NIZAMABAD-503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "268",
+        "AGENT CODE": "TS-NFNZ007",
+        "AGENT NAME": "PULINTI SHIVAKUMAR",
+        "ADDRESS": "SHOP:10-10-624/1,NEAR V TOWN POLICESTATION,NAGARAM,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "269",
+        "AGENT CODE": "TS-RFNZ120",
+        "AGENT NAME": "MUDHULKAR YOGESH",
+        "ADDRESS": "SHOP:5,BALKONDA,BALKONDA MANDAL,NIZAMABAD,",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "270",
+        "AGENT CODE": "TS-RFNZ210",
+        "AGENT NAME": "DEKAVATH RAJENDER",
+        "ADDRESS": "SHOPNO:4,NADIPALLY THANDA,NEAR GRAMEENA BANK,NADIPALLY THANDA,DICHPALLY,NIZAMABAD - 503175",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "271",
+        "AGENT CODE": "TS-NFNZ016",
+        "AGENT NAME": "V. VENKATESHWAR RAO",
+        "ADDRESS": "SUBHASHNAGAR, NIZAMABAD(NORTH), NIZAMABAD - 503002",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "272",
+        "AGENT CODE": "TS-FNZ031",
+        "AGENT NAME": "MATEEN AHMED MIRZA",
+        "ADDRESS": "THATTIKOTE ROAD,BODHAN,NIZAMABAD - 503185",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "273",
+        "AGENT CODE": "TS-RFNZ132",
+        "AGENT NAME": "SANGI GOPAL",
+        "ADDRESS": "THIRMANPALLY RS, NEAR HERO SHOW ROOM INDALWAI NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "274",
+        "AGENT CODE": "TS-RFNZ038",
+        "AGENT NAME": "V SANDHYA RANI",
+        "ADDRESS": "THORLIKONDA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "275",
+        "AGENT CODE": "TS-RFNZ067",
+        "AGENT NAME": "P NARESH KUMAR",
+        "ADDRESS": "UPLOOR(V), KAMMARPALLI(M), NIZAMABAD(DIST).",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "276",
+        "AGENT CODE": "TS-RFNZ015",
+        "AGENT NAME": "JAKKA SAYANNA S/O. CHINNA MALKANNA",
+        "ADDRESS": "VANNEL BASHIRABAD (L), BALKONDA (M), NIZAMABAD (DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "277",
+        "AGENT CODE": "TS-RFNZ069",
+        "AGENT NAME": "RAJASHEKAR GOUD SRI RAM",
+        "ADDRESS": "VARNI(L),VARNI(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "278",
+        "AGENT CODE": "TS-RFNZ061",
+        "AGENT NAME": "SOWDA.RAVI KUMAR,S/O.POSHANNA",
+        "ADDRESS": "VELPUR(L),VELPUR(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "279",
+        "AGENT CODE": "TS-NFNZ010",
+        "AGENT NAME": "KUNCHAM DASHARATHAM",
+        "ADDRESS": "VIDYANAGAR COLONY, ARMOOR, NIZAMABAD - 503224",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "280",
+        "AGENT CODE": "TS-RFNZ070",
+        "AGENT NAME": "KAMMARI SANTOSH KUMAR",
+        "ADDRESS": "VILL: CHANDUR, MO:VARNI, DIST NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "281",
+        "AGENT CODE": "TS-RFNZ053",
+        "AGENT NAME": "JILLA NAVEEN",
+        "ADDRESS": "VILL: MENDORA, MO:MENDORA, DIST NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "282",
+        "AGENT CODE": "TS-RFNZ010",
+        "AGENT NAME": "DASARI PRAVALIKA",
+        "ADDRESS": "VILL: RUDRUR, MO:RUDRUR, DIST NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "283",
+        "AGENT CODE": "TS-RFNZ051",
+        "AGENT NAME": "MADDELA KRISHNA",
+        "ADDRESS": "WADDEPALLY SATHYANARAYANAPURAM GP VARNI",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "284",
+        "AGENT CODE": "TS-FNZ056",
+        "AGENT NAME": "MOHD NASIR AHMED",
+        "ADDRESS": "YAQUB PLAZA COMPLEX, QUILLA ROAD, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "285",
+        "AGENT CODE": "TS-RFNZ035",
+        "AGENT NAME": "KAMANI.LINGA MURTHY,S/O.RAJESHWAR",
+        "ADDRESS": "YERGATLA(L),MORTHAD(M),NIZAMABAD(DIST)",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "286",
+        "AGENT CODE": "USDP-NZGC",
+        "AGENT NAME": "PRABHU DASKUNDEN",
+        "ADDRESS": "1-1-52/1,VINAYAK NAGAR,NIZAMABAD,,VINAYAK NAGARA,NIZAMABAD, ,503003",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "287",
+        "AGENT CODE": "USDP-NZRE",
+        "AGENT NAME": "GALDA JAGADEESHWAR",
+        "ADDRESS": "1-12-125/8VINAYAKNAGAR,NIZAMABAD, ,503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "288",
+        "AGENT CODE": "USDP-NZFN",
+        "AGENT NAME": "JYOTHIMETTU",
+        "ADDRESS": "10-1-10BADABAZAR,BADA BAZAR NIZAMABAD, ,503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "289",
+        "AGENT CODE": "USDP-NZVO",
+        "AGENT NAME": "KIRAN KUMARMYADAM",
+        "ADDRESS": "11-1-288KANTESHWAR,NIZAMABAD, ,503002",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "290",
+        "AGENT CODE": "USDP-NZTH",
+        "AGENT NAME": "NITHIN KUMARGUNDE",
+        "ADDRESS": "12-5-148ARSAPALLY,NIZAMABAD, ,503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "291",
+        "AGENT CODE": "USDP-NZKR",
+        "AGENT NAME": "RAJESHKADARI",
+        "ADDRESS": "16-106/1MORTHAD,MORTHAD, ,503225",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "292",
+        "AGENT CODE": "USDP-NZKA",
+        "AGENT NAME": "AMARENDER REDDYKUNDDUR",
+        "ADDRESS": "2-4-48JAWAR ROAD,JAWAR ROAD, ,503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "293",
+        "AGENT CODE": "USDP-NZBC",
+        "AGENT NAME": "KRISHNABOKKENA",
+        "ADDRESS": "3-1-1/47MAHALAXMI ROAD NEAR,ARMUR, ,503224",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "294",
+        "AGENT CODE": "USDP-NZSO",
+        "AGENT NAME": "RAMUAKULA",
+        "ADDRESS": "3-3-268, SRI GANESHNIZAMABAD,NIZAMABAD,NIZAMABAD, ,503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "295",
+        "AGENT CODE": "USDP-NZVI",
+        "AGENT NAME": "SRAVANKUMARPONNA",
+        "ADDRESS": "3-3-98/2, VISHU INTEARMUR,NIZAMABAD,ARMUR, ,503224",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "296",
+        "AGENT CODE": "USDP-NZSC",
+        "AGENT NAME": "CHANDRA MOHANSAMALA",
+        "ADDRESS": "3-3/1, SRI HANUMAN ANAVIPET,NIZAMABAD,NAVIPET, ,503245",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "297",
+        "AGENT CODE": "APO-NIZ-BHA",
+        "AGENT NAME": "RAJENDRA PRASADKONDLA",
+        "ADDRESS": "4-1/A, BHARATHI BOOKMAIN ROAD,SIRKONDA, ,503165",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "298",
+        "AGENT CODE": "USDP-NZSL",
+        "AGENT NAME": "RAJKUMARRAJULADEVI",
+        "ADDRESS": "4-2-1156/1NARSI ROAD,BODHAN, ,503185",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "299",
+        "AGENT CODE": "USDP-NZSU",
+        "AGENT NAME": "SREELATHADANDU",
+        "ADDRESS": "5-5-80/2, SUDHARSHINPOCHAMMAGALLY,NIZAMABAD, ,503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "300",
+        "AGENT CODE": "USDP-NZSY",
+        "AGENT NAME": "DAYANAND CHILKA",
+        "ADDRESS": "5-8-4666/2,ASHOK NAGAR,ASHOK NAGAR,NIZAMABAD MANDAL,NIZAMABAD DIST-503111, ,503111",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "301",
+        "AGENT CODE": "USDP-NZTC",
+        "AGENT NAME": "SATHBAI MOUNIKA",
+        "ADDRESS": "6-12-55,GURBODI ROAD,NIZAMABAD, ,503002",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "302",
+        "AGENT CODE": "USDP-NZSM",
+        "AGENT NAME": "DEVENDERGUNDA",
+        "ADDRESS": "6-18-5, SM COMPUTERSNIZAMABAD,NIZAMABAD, ,503002",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "303",
+        "AGENT CODE": "USDP-NZRI",
+        "AGENT NAME": "RAVI KUMARVEMULA",
+        "ADDRESS": "6-8-160NAMDEWADA,NIZAMABAD, ,503002",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "304",
+        "AGENT CODE": "USDP-NZYA",
+        "AGENT NAME": "ABDULKALEEMMOHAMMED",
+        "ADDRESS": "7-14-1303BODHAN ROAD,NIZAMABAD, ,503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "305",
+        "AGENT CODE": "USDP-NZAS",
+        "AGENT NAME": "NAVAKANTHPANCHAREDDY",
+        "ADDRESS": "H.NO.10-09-279HANUMAN NAGAR,NIZAMABAD, ,503002",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "306",
+        "AGENT CODE": "APO-NIZ-SAM",
+        "AGENT NAME": "GIRIDHARSAMBARU",
+        "ADDRESS": "HNO 3-118/4, SAMBARURAJANAGAR,NANDIPET, ,503212",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "307",
+        "AGENT CODE": "USDP-NZKC",
+        "AGENT NAME": "MADHUKARNAGANPALLY",
+        "ADDRESS": "MAYUR COMPLEXOPP NEW BUS STAND,BODHAN, ,503185",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "308",
+        "AGENT CODE": "APO-NIZ-NAA",
+        "AGENT NAME": "BOJA SULOCHANA",
+        "ADDRESS": "ROOM NO 5AND6 , NARASAOLD BUSSTAND,BHEEMGAL, ,503307",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "309",
+        "AGENT CODE": "USDP-NZSP",
+        "AGENT NAME": "SHIVAPRASADTHUTIKURA",
+        "ADDRESS": "SHOP NO 1,KHALEELWADI,NIZAMABAD, ,503001",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "310",
+        "AGENT CODE": "USDP-NZJC",
+        "AGENT NAME": "CHANDRA SHEKARJAKKULA",
+        "ADDRESS": "SHOP NO 5,RK COMPLEXNIZAMABAD X ROADS,ARMUR, ,503224",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "311",
+        "AGENT CODE": "OSS181305",
+        "AGENT NAME": "SOUJANYA UPPU",
+        "ADDRESS": "1-38, KURNAPALLI, YEDPALLE, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "312",
+        "AGENT CODE": "OSS181007",
+        "AGENT NAME": "M.SUKANYA",
+        "ADDRESS": "3-102, SC COLONY, MALLARAM, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "313",
+        "AGENT CODE": "OSS180809",
+        "AGENT NAME": "S BALAMANI",
+        "ADDRESS": "BABAPUR",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "314",
+        "AGENT CODE": "OSS180812",
+        "AGENT NAME": "K PRATHIBA",
+        "ADDRESS": "BEJJORA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "315",
+        "AGENT CODE": "OSS181428",
+        "AGENT NAME": "SHASHIREKHA DAYAVATH",
+        "ADDRESS": "BIDDHUR LAXMI, W/O: BANDAPALLY KRISHNA, H.NO. 5-10, VILLAGE: AMDAPUR, MANDAL: BODHAN, DIST: NIZAMABAD,",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "316",
+        "AGENT CODE": "OSS180506",
+        "AGENT NAME": "SARIKA DUMALA",
+        "ADDRESS": "BUSSAPUR MAN: BALKONDA DIST: NIZAMABAD H.NO 5-38/23/6",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "317",
+        "AGENT CODE": "OSS182205",
+        "AGENT NAME": "K ROJA",
+        "ADDRESS": "DAMMANNAPET",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "318",
+        "AGENT CODE": "OSS181314",
+        "AGENT NAME": "VIJAYA LAXMI PUPPALA",
+        "ADDRESS": "DEVAWATH SHASHI REKHA, D/O:D. SUDHAKAR, H.NO: 5-63/1, VILLAGE: OOTPALLY, MANDAL BODHAN, DIST: NIZAMABAD,",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "319",
+        "AGENT CODE": "OSS180602",
+        "AGENT NAME": "A MOUNIKA",
+        "ADDRESS": "DOMCHANDA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "320",
+        "AGENT CODE": "OSS182118",
+        "AGENT NAME": "T SRILATHA",
+        "ADDRESS": "DOOSGAON",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "321",
+        "AGENT CODE": "OSS180524",
+        "AGENT NAME": "POTHUGANTI SUNTHA",
+        "ADDRESS": "GUMMIRYAL MAN: MORTHAD DIST: NIZAMABAD H.NO 3-96",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "322",
+        "AGENT CODE": "OSS181222",
+        "AGENT NAME": "LAXMI MAGAVATH",
+        "ADDRESS": "H NO 1-40, SIRPUR, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "323",
+        "AGENT CODE": "OSS182107",
+        "AGENT NAME": "KALYANI KARNI",
+        "ADDRESS": "H NO 2-73/1, DICH PALLI MANDALAM, SUDDEPALLE, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "324",
+        "AGENT CODE": "OSS180905",
+        "AGENT NAME": "RAMA PATHANI",
+        "ADDRESS": "H NO 3-126/4, BRAHMANPALLY, JAKRAN PALLY, BRAHMANPALLE, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "325",
+        "AGENT CODE": "OSS180104",
+        "AGENT NAME": "SUMALATHA SAKINAGARI",
+        "ADDRESS": "H NO 3-138/2, NAVIPET MANDAL, ABHANGAPATNAM, NIZAMABAD.",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "326",
+        "AGENT CODE": "OSS180102",
+        "AGENT NAME": "MAMATHA GOSULA",
+        "ADDRESS": "H NO 4-36, BORGAM, RENJAL MANDALAM, BOREGAON, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "327",
+        "AGENT CODE": "OSS181429",
+        "AGENT NAME": "LAXMI BIDDHUR",
+        "ADDRESS": "H NO 4-55, JUKKAL MANDAL, PEDDA EDGI, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "328",
+        "AGENT CODE": "OSS201413",
+        "AGENT NAME": "THIRUMALA KATLA",
+        "ADDRESS": "H NO 6-85/3,ODEDU,28,504",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "329",
+        "AGENT CODE": "OSS180103",
+        "AGENT NAME": "VIMALA SIDDA",
+        "ADDRESS": "H-NO 1-33, TAD BILOLI, RENJAL MANDAL, TADBILOLI, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "330",
+        "AGENT CODE": "OSS181005",
+        "AGENT NAME": "RADHIKA SINGARAM",
+        "ADDRESS": "H.NO. 4-44/1, JAKRAN PALLY MANDALAM, KOLIPAKA, NIZAMABAD.",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "331",
+        "AGENT CODE": "OSS180615",
+        "AGENT NAME": "PATKALA KAVYA",
+        "ADDRESS": "H.NO: 1-7/1, KUKNUR, VELPUR, NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "332",
+        "AGENT CODE": "OSS181208",
+        "AGENT NAME": "K ALISHA",
+        "ADDRESS": "H.NO:1-80/1,SARANGAPUR,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "333",
+        "AGENT CODE": "OSS180111",
+        "AGENT NAME": "R JYOTHI",
+        "ADDRESS": "H.NO:2-100/92/3,SATTAPUR,RENJAL,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "334",
+        "AGENT CODE": "OSS181207",
+        "AGENT NAME": "K SWAPNA",
+        "ADDRESS": "H.NO:3-23,GUNDARAM,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "335",
+        "AGENT CODE": "OSS181516",
+        "AGENT NAME": "B NAGAMANI",
+        "ADDRESS": "H.NO:4-47,POTHANGAL,KOTAGIRI,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "336",
+        "AGENT CODE": "OSS180613",
+        "AGENT NAME": "B MAMATHA",
+        "ADDRESS": "H.NO:9-73,MORTHAD,NIZAMBAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "337",
+        "AGENT CODE": "OSS181521",
+        "AGENT NAME": "P SHIVALEELA",
+        "ADDRESS": "JALLAPALLY",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "338",
+        "AGENT CODE": "OSS181514",
+        "AGENT NAME": "N SUNITHA",
+        "ADDRESS": "KAREGOAN",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "339",
+        "AGENT CODE": "OSS181520",
+        "AGENT NAME": "P PRAMILA",
+        "ADDRESS": "KOTHAPALLE",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "340",
+        "AGENT CODE": "OSS181220",
+        "AGENT NAME": "SHIRISHA GANJARI",
+        "ADDRESS": "MALKAPUR (M), NIZAMABAD (M), NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "341",
+        "AGENT CODE": "OSS180807",
+        "AGENT NAME": "M HARSHINI",
+        "ADDRESS": "MENDHORA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "342",
+        "AGENT CODE": "OSS180501",
+        "AGENT NAME": "SHIREESHA DHARMAKAR",
+        "ADDRESS": "MENDORA MAN: BALKONDA DIST: NIZAMABAD H.NO:3-9",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "343",
+        "AGENT CODE": "OSS180505",
+        "AGENT NAME": "SARIKA DUMALA",
+        "ADDRESS": "MENDORA MAN: BALKONDA,NIZAMABAD H.NO:3-9,28,503",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "344",
+        "AGENT CODE": "OSS180419",
+        "AGENT NAME": "V KRISHNAVENI",
+        "ADDRESS": "NA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "345",
+        "AGENT CODE": "OSS180519",
+        "AGENT NAME": "D PRIYANKA",
+        "ADDRESS": "NA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "346",
+        "AGENT CODE": "OSS180703",
+        "AGENT NAME": "V RANI",
+        "ADDRESS": "NA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "347",
+        "AGENT CODE": "OSS180802",
+        "AGENT NAME": "V SAMATHA",
+        "ADDRESS": "NA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "348",
+        "AGENT CODE": "OSS180904",
+        "AGENT NAME": "M PRAVALIKA",
+        "ADDRESS": "NA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "349",
+        "AGENT CODE": "OSS180101",
+        "AGENT NAME": "G SAVITHA",
+        "ADDRESS": "NEELA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "350",
+        "AGENT CODE": "OSS181223",
+        "AGENT NAME": "VINODHA KAKI",
+        "ADDRESS": "NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "351",
+        "AGENT CODE": "OSS180810",
+        "AGENT NAME": "M GEETHA",
+        "ADDRESS": "PURANIPET",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "352",
+        "AGENT CODE": "OSS181511",
+        "AGENT NAME": "D MEENASRI GANDLA",
+        "ADDRESS": "RANAMPALLY",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "353",
+        "AGENT CODE": "OSS180322",
+        "AGENT NAME": "RANI AILAPURAM",
+        "ADDRESS": "SOANPET MAN: BALKONDA DIST: NIZMABAD H.NO: 4-36/1",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "354",
+        "AGENT CODE": "OSS180603",
+        "AGENT NAME": "JANGA GANGAJALA",
+        "ADDRESS": "THALLARAMPU MAN: MORTHAD DIST: NIZAMABAD H.NO 3-32",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "355",
+        "AGENT CODE": "OSS180604",
+        "AGENT NAME": "BAKKURI ANITHA",
+        "ADDRESS": "THORTHI MAN: MORTHAD DIST: NIZMABAD H.NO 4-75/9/1",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "356",
+        "AGENT CODE": "OSS180222",
+        "AGENT NAME": "RAJITHA KOTHAPETA",
+        "ADDRESS": "VANNEL K MAN: NANDHIPET DIST: NIZAMABAD H.NO 4-50/A",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "357",
+        "AGENT CODE": "OSS180510",
+        "AGENT NAME": "B PRAVALIKA",
+        "ADDRESS": "VEMPALLE",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "358",
+        "AGENT CODE": "OSS182108",
+        "AGENT NAME": "ANURADHA KOTAGIRI",
+        "ADDRESS": "W/0 KATROTH CHANDER, H.NO.6-105/1, IBRAHIMPET VILLAGE, BANSWADA MANDAL,NIZAMABAD",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "359",
+        "AGENT CODE": "OSS180507",
+        "AGENT NAME": "MAMATHA RYAPAN",
+        "ADDRESS": "W/O DEVENDER HNO:3-67 BODEPALLY, BALKONDA",
+        "MOBILE NO": "NA"
+    },
+    {
+        "S.NO": "360",
+        "AGENT CODE": "OSS180608",
+        "AGENT NAME": "PEGADA JHANSI",
+        "ADDRESS": "WADDIYAT MAN: MORTHAD DIST: NIZAMABAD H.NO 2-10/18",
+        "MOBILE NO": "NA"
+    }
+]
